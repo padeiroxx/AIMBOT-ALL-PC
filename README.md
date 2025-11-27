@@ -1,5 +1,3 @@
-# AIMBOT-ALL-PC
-
 -- Painel BIGBIG - AIMBOT/ESP com highlight e círculo FOV vermelho claro
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
